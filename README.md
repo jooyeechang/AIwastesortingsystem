@@ -5,6 +5,7 @@ Here's a **README** file for your project:
 # Eco-Assistant ♻️
 Eco-Assistant is an AI-powered waste management and recycling assistant. This web app allows users to ask questions about recycling and waste sorting or upload images of waste materials for analysis. The app provides information about the recyclability of materials and gives suggestions on how to manage different types of waste, including pricing details for materials in MYR (Malaysian Ringgit) based on market prices.
 ## Contributors
+- [jooyeechang](https://github.com/jooyeechang)
 - [xueenng](https://github.com/xueenng)
 - [MijiChong](https://github.com/MijiChong)
 
