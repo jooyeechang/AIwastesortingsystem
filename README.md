@@ -8,6 +8,7 @@ Eco-Assistant is an AI-powered waste management and recycling assistant. This we
 - [jooyeechang](https://github.com/jooyeechang)
 - [xueenng](https://github.com/xueenng)
 - [MijiChong](https://github.com/MijiChong)
+- [Praveen-0185](https://github.com/Praveen-0185)
 
 ## Table of Contents
 - [Features](#features)
